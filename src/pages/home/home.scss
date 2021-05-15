@@ -1,0 +1,32 @@
+@import "src/assets/styles/sizes";
+@import "src/assets/styles/colors";
+
+.home {
+
+  &__content {
+    //max-width: $content-max;
+    //margin-left: auto;
+    //margin-right: auto;
+    //padding: 20px;
+    //margin-top: 50px;
+    //border-top: 25px solid $silver;
+    //border-radius: 5px;
+    //background: $darkblue;
+
+    &-links {
+      text-align: center;
+
+      svg, a {
+        height: 3rem;
+
+        &:not(:first-child) {
+          margin-left: 1rem;
+        }
+
+        .github-black {
+          fill: white;
+        }
+      }
+    }
+  }
+}

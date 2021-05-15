@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79d048fd.chunk.css",
+    "main.js": "/static/js/main.cbb4331a.chunk.js",
+    "main.js.map": "/static/js/main.cbb4331a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89674d2d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89674d2d.js.map",
+    "static/js/2.0857bde6.chunk.js": "/static/js/2.0857bde6.chunk.js",
+    "static/js/2.0857bde6.chunk.js.map": "/static/js/2.0857bde6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.79d048fd.chunk.css.map": "/static/css/main.79d048fd.chunk.css.map",
+    "static/js/2.0857bde6.chunk.js.LICENSE.txt": "/static/js/2.0857bde6.chunk.js.LICENSE.txt",
+    "static/media/github.739cf529.svg": "/static/media/github.739cf529.svg",
+    "static/media/linkedin.16b4aa6d.svg": "/static/media/linkedin.16b4aa6d.svg",
+    "static/media/general-layout.scss": "/static/media/source-sans-pro-v14-latin-regular.f74389bd.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89674d2d.js",
+    "static/js/2.0857bde6.chunk.js",
+    "static/css/main.79d048fd.chunk.css",
+    "static/js/main.cbb4331a.chunk.js"
+  ]
+}

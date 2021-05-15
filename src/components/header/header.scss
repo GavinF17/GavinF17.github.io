@@ -1,0 +1,32 @@
+@import "src/assets/styles/sizes";
+@import "src/assets/styles/colors";
+
+.header {
+  max-width: $content-max;
+  margin-left: auto;
+  margin-right: auto;
+
+  &__name {
+    color: $greenblue;
+
+    font-size: 3rem;
+    @media (max-width: $small-max) {
+      font-size: 2rem;
+    }
+  }
+
+  &__breadcrumb {
+    color: white;
+    text-decoration: none;
+
+    &--active {
+      text-decoration: underline;
+      text-decoration-color: $greenblue;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+  }
+}
