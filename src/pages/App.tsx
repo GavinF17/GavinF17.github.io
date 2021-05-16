@@ -3,7 +3,7 @@ import { HashRouter, Route, Switch } from 'react-router-dom'
 import Home from './home'
 import GeneralLayout from '../layouts/general-layout'
 import Experience from './experience'
-import Posts from "./posts";
+import Posts from './posts'
 
 const App = () => (
   <HashRouter>
@@ -15,9 +15,9 @@ const App = () => (
         <Route path="/experience">
           <Experience />
         </Route>
-        <Route path="/posts">
-          <Posts />
-        </Route>
+        {/*<Route path="/posts">*/}
+        {/*  <Posts />*/}
+        {/*</Route>*/}
       </Switch>
     </GeneralLayout>
   </HashRouter>

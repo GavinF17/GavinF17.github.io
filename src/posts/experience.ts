@@ -21,7 +21,7 @@ MacOS, Kali, Ubuntu, Centos, Windows (up to 10), Windows Server (up to 2012)
 # Employment
 
 ## Software Engineer
-### Contrast Security 08.2020 to Current ({getMonths()})
+### Contrast Security 08.2020 to Current
 
 - To be filled out...
 
