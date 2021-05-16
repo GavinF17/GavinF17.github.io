@@ -30,10 +30,10 @@ const Experience = () => {
 
           <p>
             <strong>Recent</strong>: Java (Spring, Spring Boot, Hibernate,
-            JUnit), Python, JavaScript (React, Node, Jest), SQL
+            JUnit), TypeScript/JavaScript (React, Node, Jest), Go, SQL
           </p>
           <p>
-            <strong>Other</strong>: C / C++, C#, Go, Angular 1
+            <strong>Other</strong>: Python, C / C++, C#, Angular 1
           </p>
 
           <h2>Tools/Platforms:</h2>

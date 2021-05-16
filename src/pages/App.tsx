@@ -15,9 +15,9 @@ const App = () => (
         <Route path="/experience">
           <Experience />
         </Route>
-        {/*<Route path="/posts">*/}
-        {/*  <Posts />*/}
-        {/*</Route>*/}
+        <Route path="/posts">
+          <Posts />
+        </Route>
       </Switch>
     </GeneralLayout>
   </HashRouter>
